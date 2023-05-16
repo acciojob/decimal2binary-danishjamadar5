@@ -8,7 +8,7 @@
 
 	while(n>0){
 		binary=(num%2)+ binary;
-		num=math.floo(num/2);
+		num=math.floor(num/2);
 	}
 	return binary;
 }
