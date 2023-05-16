@@ -12,7 +12,7 @@
 	}
 	return binary;
 }
-console.log(decimalToBinary);
+// console.log(decimalToBinary);
 
 
 // module.exports = threeSum;
